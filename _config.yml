@@ -83,6 +83,7 @@ width: large
 about: true
 #blog: false
 
+# travel photos
 travel: true
 
 # do you want to show the "read time" of the posts?
