@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/JR_Maingat_Resume.pdf
+resume-url: assets/JR-Maingat-Resume.pdf
 
 url: https://jrmaingat.ca
 # your url: http://USERNAME.github.io
