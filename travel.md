@@ -5,6 +5,8 @@ layout: page
 
 # Travel
 
+![Saint Martin, Caribbean]({{ site.url }}/assets/images/travel/st-martin.jpg)
+
 ![Capas, Philippines]({{ site.url }}/assets/images/travel/capas.jpg)
 
 ![Sagada, Philippines]({{ site.url }}/assets/images/travel/sagada.jpg)
