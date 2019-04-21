@@ -18,4 +18,4 @@ I use [Vim over Emacs](https://www.vim.org).
 I prefer [spaces over tabs](https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/).
 
 I sometimes [travel]({{ site.url }}/travel).  
-I play acoustic fingerstyle guitar. <sup>(citation needed)</sup>  
+I play [acoustic fingerstyle guitar](https://www.youtube.com/channel/UCP_jMgvkI93rOTqyYQXaNQQ/videos).
