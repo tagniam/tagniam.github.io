@@ -1,0 +1,53 @@
+---
+title: "Durham Region Transit Live"
+layout: post
+date: 2016-01-23 22:10
+tag: jekyll
+image: https://www.durhamregiontransit.com/en/images/structure/logo.svg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: johndoe
+externalLink: false
+---
+
+
+## Real-time and offline
+Track real-time bus departures in Durham Region. No data? No problem. DRT Live uses SMS to get departure times if you don't have an internet connection<sup>*</sup>.
+
+## One-tap departures
+Waiting at a stop? Simply tap the My Location button and DRT Live will show you the nearest departures.
+
+## Search and save stops
+Search for bus stops by map, name, or stop ID. Got a daily commute? Save your most frequent stops to quickly access them.
+
+## Hey PRESTO!
+View and load your PRESTO funds quickly with the built-in PRESTO app shortcut<sup>**</sup>.
+
+## Free and open source
+And it always will be. View the source code and contribute on [GitHub](https://github.com/tagniam/DRT-Live).
+<br/>
+<center><a href='https://play.google.com/store/apps/details?id=com.tagniam.drtlive'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="40%"/></a></center>
+<br/>
+
+---
+
+<sup>\* Standard message rates may apply.</sup>  
+<sup>\*\* PRESTO app required (download it from the Play Store [here](https://play.google.com/store/apps/details?id=com.metrolinx.presto.android.consumerapp)).</sup>  
+<sup>***Not affiliated with Durham Region Transit.***</sup>
+
+<!--Key Features:-->
+<!--* Track real-time bus departures, no data required-->
+<!--* Waiting at a stop? See the next arrival time with one tap-->
+<!--* Search and save stops to make your daily commute easier-->
+<!--* Browse for any bus stop in Durham Region -->
+<!--* Top up and view your PRESTO balance quickly-->
+
+
+<!--* Web/SMS fetching-->
+<!--* Map interface-->
+<!--* Location button-->
+<!--* Search/saved stops-->
+<!--* Presto shortcut-->
