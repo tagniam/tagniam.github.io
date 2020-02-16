@@ -1,0 +1,184 @@
+@import url('https://rsms.me/inter/inter.css');
+
+body {
+	font-family: 'Inter', sans-serif;
+	font-size: 12pt;
+	background-color: #fff;
+}
+
+.header {
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.header a {
+	color: #1A1D20;
+}
+
+.content{
+	padding: 5vw;
+	max-width: 650px;
+}
+
+.entry{
+	margin-top: 11pt;
+}
+
+.header-info{
+	color: #51fc37;
+	font-size: 20pt;
+}
+
+.subheader-text{
+	color: white;
+	font-size: 12pt;
+}
+
+.content-text{
+	color: #434A54;
+	font-size: 11pt;
+}
+
+.cpy-text{
+	color: #d9dde2;
+	font-size: 8pt;
+}
+
+.header-text{
+	color: indigo;
+	font-size: 11pt;
+	text-decoration: none;
+}
+
+.header-text-2{
+	color: #99ffbb;
+	font-size: 11pt;
+	text-decoration: none;
+}
+
+.sub-text{
+	font-size: 10pt;
+}
+
+.highlight{
+	color: #99ffbb;
+}
+
+.link{
+	color: indigo;
+}
+
+.small-link{
+	color: #8ed9ff;
+}
+
+.nav-item{
+	color: indigo;
+	font-size: 11pt;
+	text-decoration: none;
+	display: inline-block;
+	font-weight: 700;
+}
+
+.nav-item-gray{
+	color: black;
+	font-size: 11pt;
+	text-decoration: none;
+	display: inline-block;
+	font-weight: 400;
+	color: indigo;
+}
+
+.nodeco{
+	text-decoration:none;
+}
+
+.white{
+	color: white;
+}
+
+.rightmargin{
+	margin-right: 8px;
+}
+
+.entry-title{
+	font-size: 15pt;
+	color: #99ffbb;
+}
+
+.entry-link{
+	color: indigo;
+	font-size: 12pt;
+	text-decoration: none;
+}
+
+.entry-subtitle{
+	color: #6bd66e;
+	font-size: 11pt;
+	text-decoration: none;
+}
+
+.low-bottom{
+	margin-bottom: 4px;
+}
+
+.tags{
+	font-size: 8pt;
+	margin-top: 10px;
+}
+
+.tags-header{
+	color: #99ffbb;
+	font-size: 8pt;
+}
+
+.inline-img{
+	max-width: 300px;
+	border-radius: 5px;
+	display: inline;
+}
+
+@media only screen and (max-width: 600px) {
+    .inline-img{
+		width: 100%;
+		margin-top: 4px;
+		border-radius: 5px;
+	}
+}
+
+.min{
+	font-size: 12px;
+}
+
+.date-time{
+	font-size: 12px;
+	color: white;
+}
+
+.blog-entry{
+	font-family: rubik;
+	font-size: 10pt;
+	line-height: 150%;
+	margin-top: 10px;
+}
+
+.blog-header{
+	font-size: 14pt;
+	color: #99ffbb;
+}
+
+.blog-subheader{
+	font-size: 12pt;
+	color: #6bd66e;
+}
+
+.blog-summary-text{
+	font-size: 10pt;
+	font-style: italic;
+	color: #aeeb34;
+}
+
+.blog-bold{
+	color: #99ffbb;
+	font-style: bold;
+}
