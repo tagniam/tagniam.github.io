@@ -1,2 +1,2 @@
 # J.R. Maingat
-Personal website based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo).
+Personal website written in plain HTML. Isn't that lovely?
