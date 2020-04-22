@@ -45,7 +45,7 @@ body {
 }
 
 .header-text{
-	color: indigo;
+	color: #2a5db0;
 	font-size: 11pt;
 	text-decoration: none;
 }
@@ -65,7 +65,7 @@ body {
 }
 
 .link{
-	color: indigo;
+	color: #2a5db0;
 }
 
 .small-link{
@@ -73,7 +73,7 @@ body {
 }
 
 .nav-item{
-	color: indigo;
+	color: #2a5db0;
 	font-size: 11pt;
 	text-decoration: none;
 	display: inline-block;
@@ -86,7 +86,7 @@ body {
 	text-decoration: none;
 	display: inline-block;
 	font-weight: 400;
-	color: indigo;
+	color: #2a5db0;
 }
 
 .nodeco{
@@ -107,7 +107,7 @@ body {
 }
 
 .entry-link{
-	color: indigo;
+	color: #2a5db0;
 	font-size: 12pt;
 	text-decoration: none;
 }
